@@ -1,0 +1,4 @@
+acces point : app.json;
+puerto: 3030;
+
+inicia: npm start;

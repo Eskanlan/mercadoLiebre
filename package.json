@@ -1,7 +1,7 @@
 {
   "name": "mercadoliebre",
   "version": "1.0.0",
-  "description": "",
+  "description": "acces point : app.json; puerto: 3030;",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +11,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.14"
-  }
+    "nodemon": "^2.0.15",
+    "normalize": "^0.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eskanlan/mercadoLiebre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eskanlan/mercadoLiebre/issues"
+  },
+  "homepage": "https://github.com/Eskanlan/mercadoLiebre#readme"
 }
